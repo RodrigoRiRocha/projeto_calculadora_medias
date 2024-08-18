@@ -19,3 +19,7 @@ Tecnologias:
 HTML
 CSS
 JavaScript
+
+
+
+![calculadora de medias](https://github.com/user-attachments/assets/43ec1245-b342-4edf-8215-159751a25128)
