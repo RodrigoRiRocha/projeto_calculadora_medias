@@ -21,5 +21,8 @@ CSS
 JavaScript
 
 
+https://projeto-calculadora-medias-pi-nine.vercel.app/
+
+
 
 ![calculadora de medias](https://github.com/user-attachments/assets/43ec1245-b342-4edf-8215-159751a25128)
